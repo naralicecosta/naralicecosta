@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Nara" height="150" style="border-radius:50%;"  src="https://i.picasion.com/pic92/4e9825cc2f3c6f315a6f911a2d552976.gif"> 
+
  
 </div>
 
