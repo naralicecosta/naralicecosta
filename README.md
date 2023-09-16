@@ -1,9 +1,14 @@
-## Olá! Eu sou a Naralice Costa
+## Oiii! Eu sou a Naralice Costa, desenvolvedora de sistemas e estudante de programação :) 
+Sou estudante do curso de análise e desenvolvimento de sistemas, e trabalho como desenvolvedora na ActiveSoft.<br>
+Tenho o objetivo de compartilhar e adquirir conhecimento, e construir soluções inovadoras para desafios da vida real.
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
-- 🖥️ Linkedin: Naralice Costa
-- 😄 Pronouns: ela/dela
+<h3>Atualmente estudo:</h3>
+ <p> Gestao e qualidade de software,<br>
+     Modelos, métodos e técnicas da engenharia de software,<br>
+   Programação 
+ </p>
+
+- Curiosidade: Gosto de ler fantasias, romances e distopias📚<br>
 
 <div align="center">
   <a href="https://github.com/naralicecosta">
