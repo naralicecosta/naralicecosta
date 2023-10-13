@@ -18,6 +18,7 @@ Tenho o objetivo de compartilhar e adquirir conhecimento, e construir soluções
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
   <img align="center" alt="Rafa-TS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg">
