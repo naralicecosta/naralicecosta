@@ -12,22 +12,24 @@ Tenho o objetivo de compartilhar e adquirir conhecimento, e construir soluções
 
 <div align="center">
   <a href="https://github.com/naralicecosta">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=naralicecosta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naralicecosta&layout=compact&langs_count=7&theme=radical"/>
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=naralicecosta&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naralicecosta&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-TS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-REACT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jira/jira-original.svg">
-  
-
- 
+<div>
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> 
+ <a href="https://pt-br.legacy.reactjs.org/">
+ <img src="https://img.shields.io/badge/React-087ea9?style=for-the-badge&logo=react&logoColor=white">
+ </a>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
 ##
