@@ -1,11 +1,4 @@
 ## Oiii! Eu sou a Naralice Costa, desenvolvedora de sistemas e estudante de programação :) 
-Sou estudante do curso de análise e desenvolvimento de sistemas, e trabalho como desenvolvedora na Activesoft.<br>
-Tenho o objetivo de compartilhar e adquirir conhecimento, e construir soluções inovadoras para desafios da vida real.
-
-<h3>Atualmente estudo:</h3>
- <p> Usabilidade, desenvolvimento web, mobile e jogos,<br>
-     Sistemas Distribuidos e Mobile
- </p>
 
 - Curiosidade: Gosto de ler fantasias, romances e distopias📚<br>
 
