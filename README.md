@@ -1,7 +1,4 @@
-## Oiii! Eu sou a Naralice Costa, desenvolvedora de sistemas e estudante de programação :) 
-
-- Curiosidade: Gosto de ler fantasias, romances e distopias📚<br>
-
+## Oiii! Eu sou a Naralice Costa:) 
 <div align="center">
   <a href="https://github.com/naralicecosta">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=naralicecosta&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
