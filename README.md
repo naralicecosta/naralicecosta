@@ -1,5 +1,5 @@
 ## Oiii! Eu sou a Naralice Costa:) 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/naralicecosta">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=naralicecosta&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=naralicecosta&layout=compact&langs_count=7&theme=gruvbox"/>
@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/naralice-cavalcante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
-</div>
+</div> -->
