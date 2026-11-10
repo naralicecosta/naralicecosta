@@ -60,7 +60,7 @@ Olá! Eu sou a **Naralice Costa**, desenvolvedora Front-end. Gosto de aprender n
 
 <div align="center">
 
-![Gráfico de atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=naralicecosta&bg_color=FFF7EC&color=D6467C&line=FF8FAB&point=FFE29A&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=naralicecosta&theme=default&hide_border=true&background=FFF7EC&ring=D6467C&fire=FF8FAB&currStreakLabel=D6467C&sideLabels=6B4A00&currStreakNum=6B4A00&sideNums=6B4A00&dates=6B4A00)
 
 </div>
 
